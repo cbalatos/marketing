@@ -1,0 +1,5 @@
+demo_adynatistika|images/demo_adynatistika.jpg
+demo_apivita|images/demo_apivita.jpg
+demo_korres3|images/demo_korres3.jpg
+demo_korresface11|images/demo_korresface11.jpg
+demo_magoula|images/demo_magoula.jpg

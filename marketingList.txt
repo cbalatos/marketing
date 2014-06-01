@@ -4,3 +4,4 @@ demo_korresface11.jpg images/demo_korresface11.jpg
 demo_magoula.jpg images/demo_magoula.jpg
 shoesales.jpg images/shoesales.jpg
 collagen.jpg images/collagen.jpg
+homespa.jpg images/homespa.jpg

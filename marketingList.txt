@@ -3,3 +3,4 @@ demo_korres3.jpg images/demo_korres3.jpg
 demo_korresface11.jpg images/demo_korresface11.jpg
 demo_magoula.jpg images/demo_magoula.jpg
 shoesales.jpg images/shoesales.jpg
+collagen.jpg images/collagen.jpg

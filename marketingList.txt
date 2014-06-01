@@ -3,3 +3,4 @@ demo_korres3.jpg images/demo_korres3.jpg
 demo_korresface11.jpg images/demo_korresface11.jpg
 demo_magoula.jpg images/demo_magoula.jpg
 demo_adynatistika.jpg images/demo_adynatistika.jpg
+shoesales.jpg ιμαγεσ/shoesales.jpg

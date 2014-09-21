@@ -8,5 +8,4 @@ collagen.jpg images/collagen.jpg
 homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia.jpg images/korres-magnolia.jpg
-licener.jpg images/licener.jpg
 

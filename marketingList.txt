@@ -1,5 +1,4 @@
 eviolcare_large.jpg images/eviolcare_large.jpg
-demo_korres3.jpg images/demo_korres3.jpg
 demo_magoula.jpg images/demo_magoula.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg
 magoula2.jpg images/magoula2.jpg

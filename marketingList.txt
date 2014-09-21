@@ -7,7 +7,7 @@ magoula2.jpg images/magoula2.jpg
 shoesales.jpg images/shoesales.jpg
 collagen.jpg images/collagen.jpg
 homespa.jpg images/homespa.jpg
-korres-gloss.jpg images/korres-gloss
+korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia.jpg images/korres-magnolia.jpg
 licener.jpg images/licener.jpg
 

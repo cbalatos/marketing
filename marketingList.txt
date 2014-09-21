@@ -9,3 +9,4 @@ korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia.jpg images/korres-magnolia.jpg
 licener.jpg images/licener.jpg
 m3.jpg images/m3.jpg
+m2.jpg images/m2.jpg

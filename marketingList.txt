@@ -1,12 +1,12 @@
 eviolcare_large.jpg images/eviolcare_large.jpg
 demo_magoula.jpg images/demo_magoula.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg
-magoula2.jpg images/magoula2.jpg
 shoesales.jpg images/shoesales.jpg
 collagen.jpg images/collagen.jpg
 homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia.jpg images/korres-magnolia.jpg
+magoula2.jpg images/magoula2.jpg 
 licener.jpg images/licener.jpg
 m3.jpg images/m3.jpg
 m2.jpg images/m2.jpg

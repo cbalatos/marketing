@@ -6,9 +6,8 @@ collagen.jpg images/collagen.jpg
 homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia2.jpg images/korres-magnolia2.jpg
-magoula2.jpg images/magoula2.jpg 
 licener.jpg images/licener.jpg
 m3.jpg images/m3.jpg
 m2.jpg images/m2.jpg
-blackpine images/blackpine.jpg
-aftershave images/aftershave.jpg
+blackpine.jpg images/blackpine.jpg
+aftershave.jpg images/aftershave.jpg

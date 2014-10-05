@@ -17,3 +17,4 @@ blackpine.jpg images/blackpine.jpg
 aftershave.jpg images/aftershave.jpg
 apivita-spray-propolis.jpg images/apivita-spray-propolis.jpg
 centrum.jpg images/centrum.jpg
+alpenkraft.jpg images/alpenkraft.jpg

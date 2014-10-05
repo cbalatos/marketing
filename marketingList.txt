@@ -1,4 +1,5 @@
 eviolcare_large.jpg images/eviolcare_large.jpg
+arganolive.jpg images/arganolive.jpg
 apivita-meli-thimari.jpg images/apivita-meli-thimari.jpg
 apivita-propolis-althea.jpg images/apivita-propolis-althea.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg

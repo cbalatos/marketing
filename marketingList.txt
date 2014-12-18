@@ -14,6 +14,8 @@ power-multi.jpg images/power-multi.jpg
 licener.jpg images/licener.jpg
 m3.jpg images/m3.jpg
 m2.jpg images/m2.jpg
+apivita_bee_radiant1.jpg images/apivita_bee_radiant1.jpg
+apivita_bee_radiant2.jpg images/apivita_bee_radiant2.jpg
 power-echinacea.jpg images/power-echinacea.jpg
 blackpine.jpg images/blackpine.jpg
 aftershave.jpg images/aftershave.jpg

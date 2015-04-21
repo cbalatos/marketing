@@ -1,7 +1,7 @@
 eviolcare_large.jpg images/eviolcare_large.jpg
 arganolive.jpg images/arganolive.jpg
-korres_contest1.jpg images/korres_contest1.jpg
-korres_contest2.jpg images/korres_contest2.jpg
+power_logo.jpg images/power_logo.jpg
+power_6pack.jpg images/power_6pack.jpg
 apivita-meli-thimari.jpg images/apivita-meli-thimari.jpg
 apivita-propolis-althea.jpg images/apivita-propolis-althea.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg
@@ -11,7 +11,6 @@ homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia2.jpg images/korres-magnolia2.jpg
 power-multi.jpg images/power-multi.jpg
-licener.jpg images/licener.jpg
 m3.jpg images/m3.jpg
 m2.jpg images/m2.jpg
 apivita_bee_radiant1.jpg images/apivita_bee_radiant1.jpg

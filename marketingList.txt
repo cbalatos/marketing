@@ -2,8 +2,6 @@ eviolcare_large.jpg images/eviolcare_large.jpg
 arganolive.jpg images/arganolive.jpg
 power_logo.jpg images/power_logo.jpg
 power_6pack.jpg images/power_6pack.jpg
-apivita-meli-thimari.jpg images/apivita-meli-thimari.jpg
-apivita-propolis-althea.jpg images/apivita-propolis-althea.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg
 shoesales.jpg images/shoesales.jpg
 collagen.jpg images/collagen.jpg

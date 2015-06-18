@@ -1,7 +1,7 @@
 confidence_bcomplex.jpg images/confidence_bcomplex.jpg
 confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail.jpg images/confidence_skinhairnail.jpg
-confidence_az.jpg iamges/confidence_az.jpg
+confidence_az.jpg images/confidence_az.jpg
 confidence_healthyhair.jpg images/confidence_healthyhair.jpg
 macrovita.jpg images/macrovita.jpg
 macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg

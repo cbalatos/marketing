@@ -1,5 +1,8 @@
-macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg
-macrovita.jpg images/macrovita.jpg
+confidence_bcomplex.jpg images/confidence_bcomplex.jpg
+confidence_gluco.jpg images/confidence_gluco.jpg
+confidence_skinhairnail.jpg images/confidence_skinhairnail.jpg
+confidence_az.jpg iamges/confidence_az.jpg
+confidence_healthyhair.jpg images/confidence_healthyhair.jpg
 eviolcare_large.jpg images/eviolcare_large.jpg
 arganolive.jpg images/arganolive.jpg
 power_logo.jpg images/power_logo.jpg
@@ -15,7 +18,6 @@ m3.jpg images/m3.jpg
 panthenol_diaphanous_free.jpg images/panthenol_diaphanous_free.jpg
 apivita_bee_radiant1.jpg images/apivita_bee_radiant1.jpg
 apivita_bee_radiant2.jpg images/apivita_bee_radiant2.jpg
-power-echinacea.jpg images/power-echinacea.jpg
 blackpine.jpg images/blackpine.jpg
 aftershave.jpg images/aftershave.jpg
 apivita-spray-propolis.jpg images/apivita-spray-propolis.jpg

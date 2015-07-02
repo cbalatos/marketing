@@ -3,6 +3,7 @@ confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail.jpg images/confidence_skinhairnail.jpg
 confidence_az.jpg images/confidence_az.jpg
 confidence_healthyhair.jpg images/confidence_healthyhair.jpg
+synchroline-face.jpg images/synchroline-face.jpg
 macrovita.jpg images/macrovita.jpg
 macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg
 eviolcare_large.jpg images/eviolcare_large.jpg
@@ -11,16 +12,14 @@ power_logo.jpg images/power_logo.jpg
 power_6pack.jpg images/power_6pack.jpg
 korres-oak-1.jpg images/korres-oak-1.jpg
 shoesales.jpg images/shoesales.jpg
-collagen.jpg images/collagen.jpg
 homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 korres-magnolia2.jpg images/korres-magnolia2.jpg
-power-multi.jpg images/power-multi.jpg
 m3.jpg images/m3.jpg
+bepantholpic1.jpg images/bepantholpic1.jpg
 panthenol_diaphanous_free.jpg images/panthenol_diaphanous_free.jpg
 apivita_bee_radiant1.jpg images/apivita_bee_radiant1.jpg
 apivita_bee_radiant2.jpg images/apivita_bee_radiant2.jpg
 blackpine.jpg images/blackpine.jpg
 aftershave.jpg images/aftershave.jpg
-apivita-spray-propolis.jpg images/apivita-spray-propolis.jpg
 centrum.jpg images/centrum.jpg

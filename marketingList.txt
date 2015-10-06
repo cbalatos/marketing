@@ -12,13 +12,10 @@ arganolive.jpg images/arganolive.jpg
 power_logo.jpg images/power_logo.jpg
 power_6pack.jpg images/power_6pack.jpg
 shoesales.jpg images/shoesales.jpg
-homespa.jpg images/homespa.jpg
 korres-gloss.jpg images/korres-gloss.jpg
 eviol_bcomplex.jpg images/eviol_bcomplex.jpg
 eviol_brain.jpg images/eviol_brain.jpg
 eviol_multi.jpg images/eviol_multi.jpg
-korres-magnolia2.jpg images/korres-magnolia2.jpg
-bepantholpic1.jpg images/bepantholpic1.jpg
 panthenol_diaphanous_free.jpg images/panthenol_diaphanous_free.jpg
 apivita_bee_radiant1.jpg images/apivita_bee_radiant1.jpg
 apivita_bee_radiant2.jpg images/apivita_bee_radiant2.jpg

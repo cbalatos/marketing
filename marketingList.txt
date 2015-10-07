@@ -4,6 +4,7 @@ confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail.jpg images/confidence_skinhairnail.jpg
 confidence_az.jpg images/confidence_az.jpg
 confidence_healthyhair.jpg images/confidence_healthyhair.jpg
+foltene_nail.jpg images/foltene_nail.jpg
 synchroline-face.jpg images/synchroline-face.jpg
 macrovita.jpg images/macrovita.jpg
 macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg

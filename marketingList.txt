@@ -1,6 +1,6 @@
 sostar.jpg images/sostar.jpg
 korres_vitamins.jpg images/korres_vitamins.jpg
-omron_therm.jpg ιμαγεσ/omron_therm.jpg
+omron_therm.jpg images/omron_therm.jpg
 confidence_bcomplex.jpg images/confidence_bcomplex.jpg
 confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail2.jpg images/confidence_skinhairnail2.jpg

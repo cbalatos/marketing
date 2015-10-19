@@ -11,5 +11,5 @@ power_logo.jpg images/power_logo.jpg
 eviol_bcomplex.jpg images/eviol_bcomplex.jpg
 eviol_brain.jpg images/eviol_brain.jpg
 eviol_multi.jpg images/eviol_multi.jpg
-m3 images/m3.jpg
+m3.jpg images/m3.jpg
 apivita_bee_radiant2.jpg images/apivita_bee_radiant2.jpg

@@ -2,7 +2,6 @@ sostar.jpg images/sostar.jpg
 olive_argan.jpg images/olive_argan.jpg
 korres-kastania.jpg images/korres-kastania.jpg
 korres-shampoo.jpg images/korres-shampoo.jpg
-omron_therm.jpg images/omron_therm.jpg
 confidence_bcomplex.jpg images/confidence_bcomplex.jpg
 confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail2.jpg images/confidence_skinhairnail2.jpg

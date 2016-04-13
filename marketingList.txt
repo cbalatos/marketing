@@ -12,8 +12,4 @@ confidence_bcomplex.jpg images/confidence_bcomplex.jpg
 confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail2.jpg images/confidence_skinhairnail2.jpg
 macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg
-power_logo.jpg images/power_logo.jpg
-eviol_bcomplex.jpg images/eviol_bcomplex.jpg
-eviol_brain.jpg images/eviol_brain.jpg
-eviol_multi.jpg images/eviol_multi.jpg
 m3.jpg images/m3.jpg

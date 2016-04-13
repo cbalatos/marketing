@@ -7,7 +7,7 @@ korres-shampoo.jpg images/korres-shampoo.jpg
 mavrovita_sun.jpg images/mavrovita_sun.jpg
 active_formula.jpg images/active_formula.jpg
 green_coffee.jpg images/green_coffee.jpg
-raspberry_ketone.jpg iamges/raspberry_ketone.jpg
+raspberry_ketone.jpg images/raspberry_ketone.jpg
 confidence_bcomplex.jpg images/confidence_bcomplex.jpg
 confidence_gluco.jpg images/confidence_gluco.jpg
 confidence_skinhairnail2.jpg images/confidence_skinhairnail2.jpg

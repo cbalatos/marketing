@@ -1,15 +1,1 @@
-synchroline_sunwards.jpg images/synchroline_sunwards.jpg
-Wine_elixir.jpg images/Wine_elixir.jpg
 sostar.jpg images/sostar.jpg
-olive_argan.jpg images/olive_argan.jpg
-korres-kastania.jpg images/korres-kastania.jpg
-korres-shampoo.jpg images/korres-shampoo.jpg
-mavrovita_sun.jpg images/mavrovita_sun.jpg
-active_formula.jpg images/active_formula.jpg
-green_coffee.jpg images/green_coffee.jpg
-raspberry_ketone.jpg images/raspberry_ketone.jpg
-confidence_bcomplex.jpg images/confidence_bcomplex.jpg
-confidence_gluco.jpg images/confidence_gluco.jpg
-confidence_skinhairnail2.jpg images/confidence_skinhairnail2.jpg
-macrovita_giftpack_nutrition.jpg images/macrovita_giftpack_nutrition.jpg
-m3.jpg images/m3.jpg
